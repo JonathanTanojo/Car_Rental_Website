@@ -1,0 +1,174 @@
+.bgall
+{
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    color: grey;
+}
+.bgwhite{
+    position: absolute;
+    width: 91%;
+    height: 20%;
+    left: 76px;
+    top: 149px;
+
+    background: #E5E5E5;
+    border-radius: 25px;
+}
+body{
+    background: #E5E5E5;;
+
+}
+.row{
+    width: 100%;
+}
+.txt p{
+    margin-left: 15%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.txt1 p{
+    margin-left: 50%;
+    margin-top: 1%;
+    width: 100%;
+}
+.lock img{
+    width: 8%;
+    margin-top: -2%;
+    margin-left: 5%;
+}
+.lock{
+    display: flex;
+}
+.txt2{
+    margin-top: 52px;
+    margin-left: -13%;
+}
+.atas{
+    position: absolute;
+    width: 804px;
+    height: 458px;
+    left: 76px;
+    top: 374px;
+
+    background: #E5E5E5;
+    border-radius: 25px;
+}
+.bawah{
+    position: absolute;
+    width: 804px;
+    height: 406px;
+    left: 76px;
+    top: 863px;
+
+    background: #E5E5E5;
+    border-radius: 25px;
+}
+.proses{
+    height: 50px;
+    margin-right: 7px;
+}
+.konten{
+    margin-top: 4%;
+    margin-left: 6%;
+}
+.jdl p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.inputo{
+    padding: 7px;
+    outline: none;
+    border: none;
+    background: #eeeff1;
+    border-radius: 40px;
+    font-size: 1rem;
+    width: 286px;
+    height: 52px;
+    left: 406px;
+    top: 888px;
+    background: #FFFFFF;
+    box-shadow: inset -5px -4px 0px rgb(255 255 255 / 25%), 4px 6px 16px 0px #00000054;;
+    border-radius: 12px;
+}
+.btno{
+    margin-top: 5%;
+    margin-left: 75%;
+    flex: 1 1 7rem;
+    padding: 10px 34px;
+    border: none;
+    border-radius: 0.5rem;
+    background: #ebc43a;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 500;
+}
+.btno:hover{
+    background: #F0B61F;
+}
+.flow{
+    background: #E5E5E5;
+    padding-top: 43px;
+    padding-left: 132px;
+    height: 109px;
+    border-radius: 23px;
+    display: flex;
+    width: 529px;
+}
+.lingkaran {
+    width: 25px;
+    height: 25px;
+    background: #0500FF;
+    border-radius: 15px;
+}
+.angka {
+    padding-left: 10px;
+    margin-right: 10px;
+    color: white;
+}
+.angka1 {
+    padding-left: 7px;
+    margin-right: 10px;
+    color: white;
+}
+
+.bawahkanan{
+    width: 532px;
+    height: 648px;
+    background: #E5E5E5;
+    border-radius: 25px;
+    margin-top: 46px;
+}
+.foterpro{
+    margin-top: 130px;
+
+}
+.gmbri img{
+    width: 345px;
+}
+.jdl1 {
+    margin-left: 75px;
+    padding-top: 80px;
+}
+.text{
+    margin-top: 12%;
+    margin-left: 9%;
+}
+.btn3 {
+    position: absolute;
+    padding: 8px 29px;
+    width: 110px;
+    height: 45px;
+    left: 49px;
+    bottom: 30px;
+    background: #ebc43a;
+    border-radius: 15px;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    font-weight: initial;
+    padding: 10px 20px;
+}
+.btn3:hover{
+    background: #F0B61F;
+}

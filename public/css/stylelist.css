@@ -1,0 +1,170 @@
+*{
+    font-family: "Poppins",sans-serif;
+
+}
+/* Background */
+.row{
+    width: 100%;
+    background-color: #E5E5E5;
+}
+
+.slider {
+  -webkit-appearance: none;
+  height: 25px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  background: #04AA6D;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #04AA6D;
+  cursor: pointer;
+}
+
+input[type="range" i] {
+    appearance: auto;
+    cursor: default;
+    color: -internal-light-dark(rgb(16, 16, 16), rgb(255, 255, 255));
+    padding: initial;
+    border: initial;
+    margin: 2px;
+}
+/* Filter */
+.filter{
+    width: 336px;
+    height: 723px;
+    background: #FFFFFF;
+    border-radius: 28px;
+    margin-left: 10%;
+    margin-top: 30%;
+    padding: 9%;
+}
+.slidecontainer{
+    margin-top: 25%;
+}
+.sort{
+    margin-top: 15%;
+}
+.passanger {
+    margin : 10px;
+}
+.passanger p {
+    margin-bottom : 0px;
+}
+.passanger input{
+    margin-top: 5%;
+}
+.transmission{
+    margin-top: 20%;
+}
+.transmission p{
+    margin-bottom : 0px;
+}
+.transmission input{
+    margin-top: 5%;
+}
+.butn{
+    background: orange;
+    font-family: 'Nunito', sans-serif;
+    color : white;
+    border-radius: 32px;
+    font-size : 20px;
+    padding: 8px 16px;
+    cursor: pointer;
+    border: none;
+    margin-top: 19%;
+    margin-left: 49%;
+}
+.butn:hover{
+    border: 2px solid gold;
+    color: orange;
+    background: none;
+}
+/* Mobil */
+.car{
+    padding: 32px;
+    margin-left: 20px;
+    margin-top: 35px;
+    width: 90%;
+    height: 272px;
+    background: #FFFFFF;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.car p{
+    margin-bottom: 10%;
+}
+.paket{
+    display: flex;
+    align-items: center;
+}
+.left{
+    width: 100%;
+}
+.left img{
+    width: 275px;
+}
+.mid{
+    margin-left: 5%;
+    width: 190px;
+}
+.right{
+    height: 235px;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.right p{
+    margin-bottom: 0px;
+}
+.harga{
+    color: rgb(241, 145, 0);
+}
+.car1 img{
+    width: 20px;
+}
+.buton{
+    background: orange;
+    font-family: 'Nunito', sans-serif;
+    color : white;
+    border-radius: 32px;
+    font-size : 20px;
+    padding: 8px 16px;
+    cursor: pointer;
+    border: none;
+    text-decoration: none;
+}
+.buton:hover{
+    border: 2px solid gold;
+    color: orange;
+    background: none;
+}
+/* col-9 list mobil */
+.col-9{
+    margin-top: 104px;
+}
+.col nav{
+    margin-top : 2%;
+    margin-left: 45%;
+}
+

@@ -1,0 +1,65 @@
+.kiri{
+    position: absolute;
+    width: 50%;
+    height: 709px;
+    margin-left: 5%;
+    margin-top: 7%;
+    background: #e5e5e5;
+}
+
+.kanan{
+    position: absolute;
+    width: 23%;
+    height: 124px;
+    margin-left: 0%;
+    margin-top: 10%;
+    background: #e5e5e5;
+    border-radius: 25px;
+}
+.atas img{
+    width: 52%;
+    height: 130px;
+    margin-left: 18%;
+    margin-top: 8%;
+}
+.btno{
+    margin-left: 230%;
+    flex: 1 1 7rem;
+    padding: 10px 34px;
+    border: none;
+    border-radius: 0.5rem;
+    background: #ebc43a;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-top: 50%;
+}
+.btno:hover{
+    background: #F0B61F;
+}
+.flow{
+    padding-top: 11%;
+    padding-left: 20%;
+    height: 155px;
+    border-radius: 23px;
+    display: flex;
+}
+.lingkaran {
+    width: 25px;
+    height: 25px;
+    background: #0500FF;
+    border-radius: 15px;
+}
+.angka {
+    padding-left: 10px;
+    margin-right: 10px;
+    color: white;
+}
+.angka1 {
+    padding-left: 7px;
+    margin-right: 10px;
+    color: white;
+}
+.proses{
+    margin-right: 2%;
+}
